@@ -17,6 +17,7 @@
 > 类比于把拆分后的内容转换为计算机可处理的向量形式。向量化就是把一个物体拆成多个维度表达。
 
 - 微调Embedding模型
+- [Embedding 模型选择](https://huggingface.co/spaces/mteb/leaderboard)
 
 #### 4. 创建索引
 
